@@ -1,0 +1,15 @@
+imbalanced-learn
+imblearn
+streamlit
+watchdog
+pandas
+pandas-profiling
+joblib
+pillow
+numpy
+feature_engine
+dask[dataframe]
+scikit-learn==1.5.0
+threadpoolctl
+xgboost
+setuptools>=70.0
