@@ -1,4 +1,4 @@
-# Weather Forecasting Web Application
+# Weather Forecasting Web Application🌦️
 
 ## Overview
 This project focuses on the **containerization** of a weather forecasting web application, which uses machine learning to predict weather conditions based on historical data. While the machine learning model (trained using an imbalanced dataset from Seattle) plays a role in the application, the core emphasis is on the deployment and scalability of the system through Docker and Kubernetes.
